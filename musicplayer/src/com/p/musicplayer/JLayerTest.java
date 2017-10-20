@@ -7,7 +7,7 @@ import javazoom.jl.player.advanced.PlaybackListener;
 public class JLayerTest {
 	public static void main(String[] args) {
 		// SoundJLayer soundToPlay = new SoundJLayer("Test.mp3");
-		SoundJLayer soundToPlay = new SoundJLayer("E:/mp3/Muskurane.mp3");
+		SoundJLayer soundToPlay = new SoundJLayer("H:/SELF/TEMP/songs/Aaj Phir Tumpe Pyar   Hate Story 2.mp3");
 		soundToPlay.play();
 	}
 }
